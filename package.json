@@ -1,5 +1,24 @@
 {
   "devDependencies": {
+    "lite-server": "^2.6.1",
     "typescript": "^4.4.4"
-  }
+  },
+  "name": "typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arcinston/typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arcinston/typescript/issues"
+  },
+  "homepage": "https://github.com/arcinston/typescript#readme",
+  "description": ""
 }
